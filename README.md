@@ -1,4 +1,4 @@
-#React Tic-Tac-Toe
+# React Tic-Tac-Toe
 
 [Netlify Link](https://cs2250finalassignment.netlify.app/)
 
